@@ -55,4 +55,4 @@ Roadmap/Trello/Gantt
     En este programa que he realizado en trello, he establecido los diferentes objetivos que tengo que realizar en la app por nivel de prioridad, he separadao aquellos que ya los estoy diseñando(en proceso), los que aun no loe he iniciado(pendiencte) y aquellos ya finalizados(terminado). 
     También he incorporado los recursos empleados paradesarrollar dicho proyecto, y aquellas opciones o ides que finalmente has sido, abortadas/canceladas, por otros que me hanparecido mñás adecuadas. En resumen, Todos aquellso procesos involucrados en el proyecto, pro orden de prioridad, los recursos para su desarrollo, y los elementos abortados.
 
-    Enlace a Trello: https://trello.com/b/jNKCrBrS/mi-tablero-de-trello
+    Enlace a Trello: [Enlace al Trello](https://trello.com/b/jNKCrBrS/mi-tablero-de-trello)
