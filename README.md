@@ -3,7 +3,7 @@
 
 📖 Explicación idea del proyecto:
 
-Mi app es Schedule Master, una app de escritorio que te permite establecer metas de diferentes tipos y para diferentes categorías, así como establecer metas en días puntuales en un calendario interno que tiene la app, establecer repeticiones en estas metas, y como guinda del pastel, tiene una sección que te ayuda a organizarte la semana. Tú estableces en los horarios de mañana y tarde las tareas que tengas y, luego, eligiendo entre varios diseños, la app te permite exportar el "Schedule" a PDF aplicando el diseño bonito que has elegido, y que te lo permita descargar, imprimir o lo que quieras hacer con él.
+Mi app es Schedule Master, una app de escritorio que te permite establecer metas de diferentes tipos y para diferentes categorías, así como establecer metas en días puntuales en un calendario interno que tiene la app, establecer repeticiones en estas metas, y como toque final, tiene una sección que te ayuda a organizarte la semana. Tú estableces en los horarios de mañana y tarde las tareas que tengas y, luego, eligiendo entre varios diseños, la app te permite exportar el "Schedule" a PDF aplicando el diseño bonito que has elegido, y que te lo permita descargar, imprimir o lo que quieras hacer con él.
 
 🎯 Nuestros Objetivos
 
@@ -21,7 +21,7 @@ C#: Un lenguaje de programación desarrollado por Microsoft. Es muy utilizado pa
 
 MySQL: Para crear la base de datos, sus tablas, relaciones y la gestión y guardado de datos.
 
-Y con estos recursos llevaré a cabo una app de escritorio para Windows con una base de datos SQL que guarde los datos y los cargue.
+Utilizando estas tecnologías, llevaré a cabo una app de escritorio para Windows con una base de datos SQL que guarde los datos y los cargue.
 
 💻Pagina Web
 
@@ -33,7 +33,7 @@ Y con estos recursos llevaré a cabo una app de escritorio para Windows con una 
         Con botones grises y azules que combinan bien, y otros verdes y rojos para confirmación y negación.
 
         Uso font-weight bold para textos con mayor importancia, animaciones sobre botones al pasar el cursor por encima y otros pequeños detalles que, a la vista del usuario, ofrecen una experiencia agradable. 
-        Así como una buena gestión de errores: en caso de que el usuario haga cosas que no quiero que se hagan, me he asegurado de ello con un buen control condicional que no permite al usuario salirse de la línea principal de la dinámica de la app.
+        Así como una buena gestión de errores para evitar acciones no deseadas por parte del usuario.
 
     🎨Paleta De Colores
         Blanco (#FFFFFF): Un color clásico, el blanco representa simplicidad y limpieza. Hace que el contenido sea fácil de leer. Lo uso para los contenidos principales, que seas de lectura fácil.
