@@ -54,9 +54,10 @@ Y con estos recursos llevaré a cabo una app de escritorio para Windows con una 
 
     (La funcionalidad están en la carpeta _funcionalidades).
 
-Roadmap/Trello/Gantt
-    (EL enlace a mi proyecto de Trello lo adjunto debajo de la explicacion).
-    En este programa que he realizado en trello, he establecido los diferentes objetivos que tengo que realizar en la app por nivel de prioridad, he separadao aquellos que ya los estoy diseñando(en proceso), los que aun no loe he iniciado(pendiencte) y aquellos ya finalizados(terminado). 
-    También he incorporado los recursos empleados paradesarrollar dicho proyecto, y aquellas opciones o ides que finalmente has sido, abortadas/canceladas, por otros que me hanparecido mñás adecuadas. En resumen, Todos aquellso procesos involucrados en el proyecto, pro orden de prioridad, los recursos para su desarrollo, y los elementos abortados.
+Roadmap/Trello/Gantt (El enlace a mi proyecto de Trello lo adjunto debajo de la explicación). 
+En este programa que he realizado en Trello, he establecido los diferentes objetivos que tengo que realizar en la app por nivel de prioridad. 
+He separado aquellos que ya estoy diseñando (en proceso), los que aún no he iniciado (pendientes) y aquellos ya finalizados (terminados). 
+También he incorporado los recursos empleados para desarrollar dicho proyecto, y aquellas opciones o ideas que finalmente han sido abortadas/canceladas, por otras que me han parecido más adecuadas. 
+En resumen, todos aquellos procesos involucrados en el proyecto, por orden de prioridad, los recursos para su desarrollo y los elementos abortados.
 
-    Enlace a Trello: [Enlace al Trello](https://trello.com/b/jNKCrBrS/mi-tablero-de-trello)
+Enlace a Trello: [Enlace al Trello](https://trello.com/b/jNKCrBrS/mi-tablero-de-trello)
