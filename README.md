@@ -3,33 +3,33 @@
 
 📖 Explicación idea del proyecto:
 
-Mi app es schedule master una app de escritorio que te permite establecer metas de diferentes tipos y para diferentes categorias, adi como estableceer metas en dias puntual en un calendario inteno que tiene la app, establecer repeticion en estas metas, y como guinda dle pastel tiene una seccion que te ayuda a organizarte la semana, su estableces en los horarios de mañana y tarde las tareas que tenag y luego eligiendo de entre variuos diseños la app te permite exportar el "Stardule" a pdf aplicando el diseño bonito que has elegido y que te lo permita descargar imprimir o lo que quieras hacer con el !!!
+Mi app es Schedule Master, una app de escritorio que te permite establecer metas de diferentes tipos y para diferentes categorías, así como establecer metas en días puntuales en un calendario interno que tiene la app, establecer repeticiones en estas metas, y como guinda del pastel, tiene una sección que te ayuda a organizarte la semana. Tú estableces en los horarios de mañana y tarde las tareas que tengas y, luego, eligiendo entre varios diseños, la app te permite exportar el "Schedule" a PDF aplicando el diseño bonito que has elegido, y que te lo permita descargar, imprimir o lo que quieras hacer con él.
 
 🎯 Nuestros Objetivos
 
-El objetivo principal de este proposito de proyecto no es otro que obligandome a tocar otras tecnologias como visula studio wpf, y c# salirme un poco de lo que hacen los demas, explorar nuevos campos y poder ofrecer una app que permita a los que la quieran usar una vida llena de orden y pacifismo.
+El objetivo principal de este proyecto no es otro que obligarme a tocar otras tecnologías como Visual Studio WPF y C#, salirme un poco de lo que hacen los demás, explorar nuevos campos y poder ofrecer una app que permita a los que la quieran usar una vida llena de orden y paz.
 
 🌐 Tecnologías Usadas
 
-Para llevar a cabo dicho proyecto, he recurrido a WPF desarrollado con c#, un tipo de proyecto para desrrollar aplicacion de escritorio y con más podencial y alance que el clásico Forms. Permite desarrollar interfaces más mdoernas, mas control de los elementos, establecer animaciones y una infiindad mas de opciones modernas.
+Para llevar a cabo dicho proyecto, he recurrido a WPF desarrollado con C#, un tipo de proyecto para desarrollar aplicaciones de escritorio con más potencial y alcance que el clásico Forms. Permite desarrollar interfaces más modernas, tener más control de los elementos, establecer animaciones y una infinidad de opciones modernas.
 
-Visual Studio: Un entorno de desarrollo integrado creado por Microsoft. Ayuda a los programadores a escribir, depurar, probar y desplegar aplicaciones de software más eficiente. Admite una gran gama de lenguajes de programación y tiene herramientas para edición de código, diseño de interfaz de usuario, compilación, y control de versiones.
+Visual Studio: Un entorno de desarrollo integrado creado por Microsoft. Ayuda a los programadores a escribir, depurar, probar y desplegar aplicaciones de software de manera más eficiente. Admite una gran gama de lenguajes de programación y tiene herramientas para la edición de código, diseño de interfaz de usuario, compilación y control de versiones.
 
-WPF(Windows Presentation Foundation): Una tecnología de Microsoft para la creación de interfaces gráficas de usuario en aplicaciones de escritorio. Permite diseñar interfaces modernas y atractivas usando XAML.
+WPF (Windows Presentation Foundation): Una tecnología de Microsoft para la creación de interfaces gráficas de usuario en aplicaciones de escritorio. Permite diseñar interfaces modernas y atractivas usando XAML.
 
 C#: Un lenguaje de programación desarrollado por Microsoft. Es muy utilizado para crear aplicaciones de todo tipo, desde servicios web hasta aplicaciones de escritorio y móviles.
 
-MySql: Para Crear la BBDD sus tablas relaciones y la gestión y guardado de datos.
+MySQL: Para crear la base de datos, sus tablas, relaciones y la gestión y guardado de datos.
 
-Y con estos recursos llevare a cabo uan app de escritorio para windows con una base de datos SQL que guatrde lso datos y los cargue.
+Y con estos recursos llevaré a cabo una app de escritorio para Windows con una base de datos SQL que guarde los datos y los cargue.
 
 💻Pagina Web
 
     💭Mockup
         (Los mock ups estan en la carpeta Mock_Up).
-        Su uso es sencillo; El login incorpora una animacion inicial que permite skipearla si quieres inicias sesion de forma más rápida y no comerte toda la animacion de inicio. 
-        Una vez iniciado sesión, Se accede al menu en el que uso un usercontrol, una barra lateral con los aparatados por los que se puede navegar, con una barra con uan animacion que se mueve lateralmente segun la opcion a la que se navega, uso un fondo negro ya que con la apps de organizacion y ese entorno es un color que pega, además que muestra elegancia y orden de cara al público y al marketing. Cono botones grises, y azules que conbinan bien, y otros verdes y rojos para confirmacion y negación.
-        Usando font weight bold bara textos con mayor importancia, aniamaciones sobre botones al pasar el cursor pro encima y otros pequeños detalles que a la vista del usuario ofrecen una experiencia agradable al usuario. Así como una buena gestió de errores en caso que el usuario haga cosas que no quiero que se hagan me he asegurado de eso con un buen control de condicionale que no permite al usuario salirse de la linea principal de la dinámica de la app.
+        Su uso es sencillo: El login incorpora una animación inicial que permite saltarla si quieres iniciar sesión de forma más rápida y no comerte toda la animación de inicio. Una vez iniciado sesión, se accede al menú en el que uso un UserControl, una barra lateral         con los apartados por los que se puede navegar, con una barra con una animación que se mueve lateralmente según la opción a la que se navega. Uso un fondo negro, ya que con las apps de organización y ese entorno, es un color que pega, además de mostrar elegancia y         orden de cara al público y al marketing. Con botones grises y azules que combinan bien, y otros verdes y rojos para confirmación y negación.
+
+        Uso font-weight bold para textos con mayor importancia, animaciones sobre botones al pasar el cursor por encima y otros pequeños detalles que, a la vista del usuario, ofrecen una experiencia agradable. Así como una buena gestión de errores: en caso de que el             usuario haga cosas que no quiero que se hagan, me he asegurado de ello con un buen control condicional que no permite al usuario salirse de la línea principal de la dinámica de la app.
 
     🎨Paleta De Colores
         Blanco (#FFFFFF): Un color clásico, el blanco representa simplicidad y limpieza. Hace que el contenido sea fácil de leer. Lo uso para los contenidos principales, que seas de lectura fácil.
