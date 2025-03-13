@@ -27,9 +27,13 @@ Y con estos recursos llevaré a cabo una app de escritorio para Windows con una 
 
     💭Mockup
         (Los mock ups estan en la carpeta Mock_Up).
-        Su uso es sencillo: El login incorpora una animación inicial que permite saltarla si quieres iniciar sesión de forma más rápida y no comerte toda la animación de inicio. Una vez iniciado sesión, se accede al menú en el que uso un UserControl, una barra lateral         con los apartados por los que se puede navegar, con una barra con una animación que se mueve lateralmente según la opción a la que se navega. Uso un fondo negro, ya que con las apps de organización y ese entorno, es un color que pega, además de mostrar elegancia y         orden de cara al público y al marketing. Con botones grises y azules que combinan bien, y otros verdes y rojos para confirmación y negación.
+        Su uso es sencillo: El login incorpora una animación inicial que permite saltarla si quieres iniciar sesión de forma más rápida y no comerte toda la animación de inicio. 
+        Una vez iniciado sesión, se accede al menú en el que uso un UserControl, una barra lateral con los apartados por los que se puede navegar, con una barra con una animación que se mueve lateralmente según la opción a la que se navega.
+        Uso un fondo negro, ya que con las apps de organización y ese entorno, es un color que pega, además de mostrar elegancia y orden de cara al público y al marketing. 
+        Con botones grises y azules que combinan bien, y otros verdes y rojos para confirmación y negación.
 
-        Uso font-weight bold para textos con mayor importancia, animaciones sobre botones al pasar el cursor por encima y otros pequeños detalles que, a la vista del usuario, ofrecen una experiencia agradable. Así como una buena gestión de errores: en caso de que el             usuario haga cosas que no quiero que se hagan, me he asegurado de ello con un buen control condicional que no permite al usuario salirse de la línea principal de la dinámica de la app.
+        Uso font-weight bold para textos con mayor importancia, animaciones sobre botones al pasar el cursor por encima y otros pequeños detalles que, a la vista del usuario, ofrecen una experiencia agradable. 
+        Así como una buena gestión de errores: en caso de que el usuario haga cosas que no quiero que se hagan, me he asegurado de ello con un buen control condicional que no permite al usuario salirse de la línea principal de la dinámica de la app.
 
     🎨Paleta De Colores
         Blanco (#FFFFFF): Un color clásico, el blanco representa simplicidad y limpieza. Hace que el contenido sea fácil de leer. Lo uso para los contenidos principales, que seas de lectura fácil.
