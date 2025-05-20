@@ -70,3 +70,8 @@ ACCESO A TEASTEAR LA APLICACIÓN
 EXPLICACIÓN EJECUCIÓN DE LA APP:
 En la carpeta Schedule master ejecutable la cual se encuentra comprimida en un zip se deberá extraer, y dentro de ella hay 2 carpetas, la primera llamada "Schedule master" la cual se utilizará para levantar el contenedor con la imagen de MYSQL, y con el script y las clases del programa. Para poder testear la all hay que estar dentro de la carpeta Schedule master en donde se hallan archivos ya mencionados como el scrip de la bbdd y el archivo docker compose.yaml entre otros, entonces una vez en terminal apuntando a dicha carpeta se ha de ejecutar el comando docker compose up --build, PERO antes de deberá abrir docker como administrador!!! entonces el contenedor se levantará y el servicio MYSQL se arrancará permitiendo acceder a la  aplicación. 
 COMO ACCEDER AL EJECUTABLE, una vez levantado el contendor, se debe ir a la otra carpeta que es Schedule master EJECUTABLE y buscar el ejecutable un archivo, llamado Schedule Master.exe ejecutará el programa y ya iniciará todo correctamente para el testeo.
+
+********************************************************************************************************************************************************************************
+ADJUNTO EL ENLACE A DRIVE EN DONDE HAY UNA CARPETA PUBLICA DESDE DONDE SE PUEDE EXTRAER EL ZIP DE LA APLICACIÓN, YA QUE PESA MAS DE 25MB Y NO ME DEJABA SUBIRLA A GIT.
+
+ENLACE A DRIVE: https://drive.google.com/file/d/1huvD31spSIYZxDzB7oNM0_jqEaOBwGwW/view?usp=sharing
