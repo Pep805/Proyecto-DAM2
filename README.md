@@ -1,5 +1,5 @@
 # Proyecto-DAM2
-|| Pep Luna DAM 2 Proyecto Final de Grado ||  Explicación ejecución de la aplicacion al final del documento  ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+|| Pep Luna DAM 2 Proyecto Final de Grado ||  Explicación EJECUCIÓN de la aplicacion al FINAL del documento  ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 
 📖 Explicación idea del proyecto:
 
